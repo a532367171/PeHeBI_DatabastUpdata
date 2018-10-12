@@ -1,0 +1,310 @@
+外加剂1BiaoZeroTime=2017-12-06 15:37:54
+外加剂1BiaoZeroADValue=4768
+外加剂1BiaoZeroWTValue=6.27
+####################################################
+骨料3BiaoZeroTime=2017-12-06 16:00:35
+骨料3BiaoZeroADValue=2405
+骨料3BiaoZeroWTValue=78
+####################################################
+外加剂2BiaoZeroTime=2017-12-06 16:01:17
+外加剂2BiaoZeroADValue=4571
+外加剂2BiaoZeroWTValue=7.36
+####################################################
+外加剂1BiaoZeroTime=2017-12-06 16:01:25
+外加剂1BiaoZeroADValue=4778
+外加剂1BiaoZeroWTValue=0.08
+####################################################
+骨料1BiaoZeroTime=2017-12-08 14:22:28
+骨料1BiaoZeroADValue=1703
+骨料1BiaoZeroWTValue=0
+####################################################
+骨料2BiaoZeroTime=2017-12-08 14:23:13
+骨料2BiaoZeroADValue=1666
+骨料2BiaoZeroWTValue=0
+####################################################
+骨料3BiaoZeroTime=2017-12-08 14:23:27
+骨料3BiaoZeroADValue=2406
+骨料3BiaoZeroWTValue=0
+####################################################
+骨料4BiaoZeroTime=2017-12-08 14:23:39
+骨料4BiaoZeroADValue=2296
+骨料4BiaoZeroWTValue=-1
+####################################################
+CengIndex=1
+骨料1BiaoWeightTime=2017-12-08 14:25:20
+骨料1BiaoWeightADValue=2153
+骨料1BiaoWeightWTValue=180
+骨料1BiaoWeightFMValue=180
+####################################################
+CengIndex=2
+骨料2BiaoWeightTime=2017-12-08 14:26:58
+骨料2BiaoWeightADValue=2115
+骨料2BiaoWeightWTValue=179
+骨料2BiaoWeightFMValue=180
+####################################################
+CengIndex=3
+骨料3BiaoWeightTime=2017-12-08 14:28:38
+骨料3BiaoWeightADValue=2851
+骨料3BiaoWeightWTValue=178
+骨料3BiaoWeightFMValue=180
+####################################################
+CengIndex=3
+骨料3BiaoWeightTime=2017-12-08 14:28:44
+骨料3BiaoWeightADValue=2851
+骨料3BiaoWeightWTValue=179
+骨料3BiaoWeightFMValue=180
+####################################################
+CengIndex=4
+骨料4BiaoWeightTime=2017-12-08 14:30:19
+骨料4BiaoWeightADValue=2740
+骨料4BiaoWeightWTValue=177
+骨料4BiaoWeightFMValue=180
+####################################################
+CengIndex=4
+骨料4BiaoWeightTime=2017-12-08 14:30:25
+骨料4BiaoWeightADValue=2741
+骨料4BiaoWeightWTValue=179
+骨料4BiaoWeightFMValue=180
+####################################################
+水泥BiaoZeroTime=2017-12-08 14:31:00
+水泥BiaoZeroADValue=1483
+水泥BiaoZeroWTValue=1
+####################################################
+粉灰BiaoZeroTime=2017-12-08 14:31:13
+粉灰BiaoZeroADValue=2540
+粉灰BiaoZeroWTValue=0.4
+####################################################
+水秤BiaoZeroTime=2017-12-08 14:31:28
+水秤BiaoZeroADValue=2551
+水秤BiaoZeroWTValue=20.3
+####################################################
+外加剂1BiaoZeroTime=2017-12-08 14:31:52
+外加剂1BiaoZeroADValue=4735
+外加剂1BiaoZeroWTValue=0.02
+####################################################
+外加剂2BiaoZeroTime=2017-12-08 14:32:07
+外加剂2BiaoZeroADValue=4552
+外加剂2BiaoZeroWTValue=0.04
+####################################################
+CengIndex=9
+水泥BiaoWeightTime=2017-12-08 14:33:33
+水泥BiaoWeightADValue=2418
+水泥BiaoWeightWTValue=187
+水泥BiaoWeightFMValue=180
+####################################################
+CengIndex=10
+粉灰BiaoWeightTime=2017-12-08 14:34:09
+粉灰BiaoWeightADValue=4405
+粉灰BiaoWeightWTValue=186.4
+粉灰BiaoWeightFMValue=179.7
+####################################################
+水秤BiaoZeroTime=2017-12-08 14:36:42
+水秤BiaoZeroADValue=2554
+水秤BiaoZeroWTValue=0.3
+####################################################
+外加剂1BiaoZeroTime=2017-12-08 14:36:50
+外加剂1BiaoZeroADValue=4738
+外加剂1BiaoZeroWTValue=-0.01
+####################################################
+外加剂2BiaoZeroTime=2017-12-08 14:37:00
+外加剂2BiaoZeroADValue=4565
+外加剂2BiaoZeroWTValue=0.12
+####################################################
+外加剂1BiaoZeroTime=2017-12-08 14:37:16
+外加剂1BiaoZeroADValue=4772
+外加剂1BiaoZeroWTValue=0.14
+####################################################
+CengIndex=12
+外加剂1BiaoWeightTime=2017-12-08 14:39:26
+外加剂1BiaoWeightADValue=5448
+外加剂1BiaoWeightWTValue=4.57
+外加剂1BiaoWeightFMValue=4.25
+####################################################
+CengIndex=12
+外加剂1BiaoWeightTime=2017-12-08 14:41:06
+外加剂1BiaoWeightADValue=5435
+外加剂1BiaoWeightWTValue=4.15
+外加剂1BiaoWeightFMValue=4.25
+####################################################
+CengIndex=12
+外加剂1BiaoWeightTime=2017-12-08 14:41:21
+外加剂1BiaoWeightADValue=5446
+外加剂1BiaoWeightWTValue=4.27
+外加剂1BiaoWeightFMValue=4.25
+####################################################
+CengIndex=13
+外加剂2BiaoWeightTime=2017-12-08 14:42:16
+外加剂2BiaoWeightADValue=5227
+外加剂2BiaoWeightWTValue=4.44
+外加剂2BiaoWeightFMValue=4.25
+####################################################
+CengIndex=13
+外加剂2BiaoWeightTime=2017-12-08 14:42:33
+外加剂2BiaoWeightADValue=5255
+外加剂2BiaoWeightWTValue=4.41
+外加剂2BiaoWeightFMValue=4.25
+####################################################
+CengIndex=8
+水秤BiaoWeightTime=2017-12-08 14:43:46
+水秤BiaoWeightADValue=3418
+水秤BiaoWeightWTValue=57.6
+水秤BiaoWeightFMValue=58.0
+####################################################
+水秤BiaoZeroTime=2017-12-09 09:42:00
+水秤BiaoZeroADValue=1982
+水秤BiaoZeroWTValue=-0.2
+####################################################
+外加剂1BiaoZeroTime=2017-12-19 10:05:55
+外加剂1BiaoZeroADValue=4906
+外加剂1BiaoZeroWTValue=0.90
+####################################################
+外加剂1BiaoZeroTime=2017-12-19 10:05:59
+外加剂1BiaoZeroADValue=4906
+外加剂1BiaoZeroWTValue=0.00
+####################################################
+外加剂2BiaoZeroTime=2017-12-19 10:06:14
+外加剂2BiaoZeroADValue=4714
+外加剂2BiaoZeroWTValue=0.94
+####################################################
+外加剂2BiaoZeroTime=2017-12-19 10:06:26
+外加剂2BiaoZeroADValue=4728
+外加剂2BiaoZeroWTValue=0.06
+####################################################
+外加剂1BiaoZeroTime=2017-12-19 10:39:08
+外加剂1BiaoZeroADValue=4789
+外加剂1BiaoZeroWTValue=-0.75
+####################################################
+水秤BiaoZeroTime=2017-12-19 10:39:20
+水秤BiaoZeroADValue=1993
+水秤BiaoZeroWTValue=-3.0
+####################################################
+外加剂1BiaoZeroTime=2017-12-19 13:49:39
+外加剂1BiaoZeroADValue=4822
+外加剂1BiaoZeroWTValue=-0.13
+####################################################
+大石BiaoZeroTime=2017-12-22 11:23:04
+大石BiaoZeroADValue=1862
+大石BiaoZeroWTValue=46
+####################################################
+CengIndex=1
+大石BiaoWeightTime=2017-12-22 11:30:41
+大石BiaoWeightADValue=2607
+大石BiaoWeightWTValue=296
+大石BiaoWeightFMValue=300
+####################################################
+大石BiaoZeroTime=2017-12-22 13:45:02
+大石BiaoZeroADValue=1749
+大石BiaoZeroWTValue=-45
+####################################################
+CengIndex=2
+小石BiaoWeightTime=2017-12-22 13:48:40
+小石BiaoWeightADValue=2313
+小石BiaoWeightWTValue=243
+小石BiaoWeightFMValue=243
+####################################################
+小石BiaoZeroTime=2017-12-22 13:50:31
+小石BiaoZeroADValue=1817
+小石BiaoZeroWTValue=56
+####################################################
+CengIndex=2
+小石BiaoWeightTime=2017-12-22 13:52:47
+小石BiaoWeightADValue=2562
+小石BiaoWeightWTValue=279
+小石BiaoWeightFMValue=300
+####################################################
+小石BiaoZeroTime=2017-12-22 13:56:59
+小石BiaoZeroADValue=1705
+小石BiaoZeroWTValue=-45
+####################################################
+砂1BiaoZeroTime=2017-12-22 13:57:21
+砂1BiaoZeroADValue=2710
+砂1BiaoZeroWTValue=44
+####################################################
+CengIndex=3
+砂1BiaoWeightTime=2017-12-22 13:59:55
+砂1BiaoWeightADValue=3450
+砂1BiaoWeightWTValue=297
+砂1BiaoWeightFMValue=300
+####################################################
+砂1BiaoZeroTime=2017-12-22 14:03:06
+砂1BiaoZeroADValue=2598
+砂1BiaoZeroWTValue=-47
+####################################################
+砂2BiaoZeroTime=2017-12-22 14:03:13
+砂2BiaoZeroADValue=2626
+砂2BiaoZeroWTValue=45
+####################################################
+CengIndex=4
+砂2BiaoWeightTime=2017-12-22 14:07:45
+砂2BiaoWeightADValue=3362
+砂2BiaoWeightWTValue=297
+砂2BiaoWeightFMValue=300
+####################################################
+砂2BiaoZeroTime=2017-12-22 14:10:56
+砂2BiaoZeroADValue=2513
+砂2BiaoZeroWTValue=-46
+####################################################
+外加剂1BiaoZeroTime=2017-12-22 14:15:10
+外加剂1BiaoZeroADValue=4802
+外加剂1BiaoZeroWTValue=0.04
+####################################################
+外加剂2BiaoZeroTime=2017-12-22 14:16:04
+外加剂2BiaoZeroADValue=4557
+外加剂2BiaoZeroWTValue=-0.05
+####################################################
+CengIndex=13
+外加剂2BiaoWeightTime=2017-12-22 14:16:37
+外加剂2BiaoWeightADValue=6126
+外加剂2BiaoWeightWTValue=9.65
+外加剂2BiaoWeightFMValue=10.00
+####################################################
+外加剂1BiaoZeroTime=2017-12-22 14:18:16
+外加剂1BiaoZeroADValue=4808
+外加剂1BiaoZeroWTValue=0.03
+####################################################
+CengIndex=12
+外加剂1BiaoWeightTime=2017-12-22 14:18:49
+外加剂1BiaoWeightADValue=6372
+外加剂1BiaoWeightWTValue=9.85
+外加剂1BiaoWeightFMValue=10.00
+####################################################
+水秤BiaoZeroTime=2017-12-22 14:19:21
+水秤BiaoZeroADValue=1986
+水秤BiaoZeroWTValue=0.2
+####################################################
+水泥BiaoZeroTime=2017-12-22 14:19:30
+水泥BiaoZeroADValue=1560
+水泥BiaoZeroWTValue=0
+####################################################
+CengIndex=9
+水泥BiaoWeightTime=2017-12-22 14:26:46
+水泥BiaoWeightADValue=2597
+水泥BiaoWeightWTValue=199
+水泥BiaoWeightFMValue=200
+####################################################
+CengIndex=10
+粉灰BiaoWeightTime=2017-12-22 14:28:19
+粉灰BiaoWeightADValue=4658
+粉灰BiaoWeightWTValue=194.8
+粉灰BiaoWeightFMValue=200.0
+####################################################
+粉灰BiaoZeroTime=2017-12-22 14:29:22
+粉灰BiaoZeroADValue=2598
+粉灰BiaoZeroWTValue=5.3
+####################################################
+CengIndex=10
+粉灰BiaoWeightTime=2017-12-22 14:30:06
+粉灰BiaoWeightADValue=4663
+粉灰BiaoWeightWTValue=195.0
+粉灰BiaoWeightFMValue=200.0
+####################################################
+水秤BiaoZeroTime=2017-12-22 14:30:39
+水秤BiaoZeroADValue=1986
+水秤BiaoZeroWTValue=0.0
+####################################################
+CengIndex=8
+水秤BiaoWeightTime=2017-12-22 14:32:07
+水秤BiaoWeightADValue=3565
+水秤BiaoWeightWTValue=105.7
+水秤BiaoWeightFMValue=100.0
+####################################################

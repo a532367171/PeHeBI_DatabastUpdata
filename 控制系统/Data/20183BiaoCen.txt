@@ -1,0 +1,220 @@
+水泥BiaoZeroTime=2018-03-07 07:26:15
+水泥BiaoZeroADValue=1569
+水泥BiaoZeroWTValue=0
+####################################################
+水泥BiaoZeroTime=2018-03-07 07:31:37
+水泥BiaoZeroADValue=1568
+水泥BiaoZeroWTValue=0
+####################################################
+CengIndex=9
+水泥BiaoWeightTime=2018-03-07 07:38:05
+水泥BiaoWeightADValue=2350
+水泥BiaoWeightWTValue=150
+水泥BiaoWeightFMValue=156
+####################################################
+粉灰BiaoZeroTime=2018-03-09 08:40:02
+粉灰BiaoZeroADValue=2598
+粉灰BiaoZeroWTValue=3.7
+####################################################
+粉灰BiaoZeroTime=2018-03-09 08:42:14
+粉灰BiaoZeroADValue=2639
+粉灰BiaoZeroWTValue=3.9
+####################################################
+粉灰BiaoZeroTime=2018-03-09 08:43:38
+粉灰BiaoZeroADValue=2585
+粉灰BiaoZeroWTValue=-5.2
+####################################################
+粉灰BiaoZeroTime=2018-03-09 08:50:31
+粉灰BiaoZeroADValue=2555
+粉灰BiaoZeroWTValue=-2.6
+####################################################
+粉灰BiaoZeroTime=2018-03-09 09:51:40
+粉灰BiaoZeroADValue=2598
+粉灰BiaoZeroWTValue=4.1
+####################################################
+CengIndex=10
+粉灰BiaoWeightTime=2018-03-09 09:53:27
+粉灰BiaoWeightADValue=3655
+粉灰BiaoWeightWTValue=102.4
+粉灰BiaoWeightFMValue=100.0
+####################################################
+CengIndex=10
+粉灰BiaoWeightTime=2018-03-09 09:55:26
+粉灰BiaoWeightADValue=4686
+粉灰BiaoWeightWTValue=197.3
+粉灰BiaoWeightFMValue=200.0
+####################################################
+粉灰BiaoZeroTime=2018-03-09 15:15:17
+粉灰BiaoZeroADValue=2714
+粉灰BiaoZeroWTValue=14.3
+####################################################
+水秤BiaoZeroTime=2018-03-09 15:26:27
+水秤BiaoZeroADValue=1988
+水秤BiaoZeroWTValue=0.8
+####################################################
+粉灰BiaoZeroTime=2018-03-09 16:36:53
+粉灰BiaoZeroADValue=2710
+粉灰BiaoZeroWTValue=12.8
+####################################################
+粉灰BiaoZeroTime=2018-03-10 10:51:20
+粉灰BiaoZeroADValue=2654
+粉灰BiaoZeroWTValue=6.7
+####################################################
+粉灰BiaoZeroTime=2018-03-10 17:13:58
+粉灰BiaoZeroADValue=2811
+粉灰BiaoZeroWTValue=23.2
+####################################################
+水泥BiaoZeroTime=2018-03-10 17:14:11
+水泥BiaoZeroADValue=1564
+水泥BiaoZeroWTValue=2
+####################################################
+水秤BiaoZeroTime=2018-03-10 17:14:24
+水秤BiaoZeroADValue=1989
+水秤BiaoZeroWTValue=0.1
+####################################################
+外加剂1BiaoZeroTime=2018-03-10 17:14:32
+外加剂1BiaoZeroADValue=4812
+外加剂1BiaoZeroWTValue=0.02
+####################################################
+粉灰BiaoZeroTime=2018-03-10 17:19:21
+粉灰BiaoZeroADValue=2542
+粉灰BiaoZeroWTValue=-25.7
+####################################################
+砂1BiaoZeroTime=2018-03-13 14:30:33
+砂1BiaoZeroADValue=2563
+砂1BiaoZeroWTValue=-1
+####################################################
+砂2BiaoZeroTime=2018-03-13 14:30:46
+砂2BiaoZeroADValue=2493
+砂2BiaoZeroWTValue=-1
+####################################################
+粉灰BiaoZeroTime=2018-03-13 14:30:56
+粉灰BiaoZeroADValue=2569
+粉灰BiaoZeroWTValue=-0.1
+####################################################
+外加剂1BiaoZeroTime=2018-03-13 14:31:03
+外加剂1BiaoZeroADValue=4759
+外加剂1BiaoZeroWTValue=-0.27
+####################################################
+外加剂1BiaoZeroTime=2018-03-19 11:35:25
+外加剂1BiaoZeroADValue=4828
+外加剂1BiaoZeroWTValue=0.02
+####################################################
+外加剂2BiaoZeroTime=2018-03-19 11:35:33
+外加剂2BiaoZeroADValue=4561
+外加剂2BiaoZeroWTValue=0.02
+####################################################
+粉灰BiaoZeroTime=2018-03-19 11:35:43
+粉灰BiaoZeroADValue=2573
+粉灰BiaoZeroWTValue=-0.1
+####################################################
+大石BiaoZeroTime=2018-03-19 11:36:00
+大石BiaoZeroADValue=1798
+大石BiaoZeroWTValue=-1
+####################################################
+大石BiaoZeroTime=2018-03-20 14:22:14
+大石BiaoZeroADValue=1794
+大石BiaoZeroWTValue=-4
+####################################################
+小石BiaoZeroTime=2018-03-20 14:22:19
+小石BiaoZeroADValue=1727
+小石BiaoZeroWTValue=-1
+####################################################
+砂1BiaoZeroTime=2018-03-20 14:22:25
+砂1BiaoZeroADValue=2568
+砂1BiaoZeroWTValue=-1
+####################################################
+砂2BiaoZeroTime=2018-03-20 14:22:32
+砂2BiaoZeroADValue=2495
+砂2BiaoZeroWTValue=-1
+####################################################
+粉灰BiaoZeroTime=2018-03-20 14:22:41
+粉灰BiaoZeroADValue=2569
+粉灰BiaoZeroWTValue=-0.2
+####################################################
+水秤BiaoZeroTime=2018-03-20 14:22:48
+水秤BiaoZeroADValue=1989
+水秤BiaoZeroWTValue=0.3
+####################################################
+外加剂1BiaoZeroTime=2018-03-20 14:22:57
+外加剂1BiaoZeroADValue=4830
+外加剂1BiaoZeroWTValue=0.03
+####################################################
+外加剂2BiaoZeroTime=2018-03-20 14:23:06
+外加剂2BiaoZeroADValue=4584
+外加剂2BiaoZeroWTValue=0.14
+####################################################
+外加剂2BiaoZeroTime=2018-03-22 16:10:28
+外加剂2BiaoZeroADValue=4607
+外加剂2BiaoZeroWTValue=0.22
+####################################################
+水泥BiaoZeroTime=2018-03-25 07:46:58
+水泥BiaoZeroADValue=1575
+水泥BiaoZeroWTValue=1
+####################################################
+水秤BiaoZeroTime=2018-03-25 07:47:21
+水秤BiaoZeroADValue=1988
+水秤BiaoZeroWTValue=0.2
+####################################################
+大石BiaoZeroTime=2018-03-25 14:06:37
+大石BiaoZeroADValue=1778
+大石BiaoZeroWTValue=-2
+####################################################
+小石BiaoZeroTime=2018-03-25 14:06:52
+小石BiaoZeroADValue=1724
+小石BiaoZeroWTValue=-1
+####################################################
+砂1BiaoZeroTime=2018-03-25 14:07:01
+砂1BiaoZeroADValue=2561
+砂1BiaoZeroWTValue=-1
+####################################################
+砂2BiaoZeroTime=2018-03-25 14:07:08
+砂2BiaoZeroADValue=2491
+砂2BiaoZeroWTValue=-1
+####################################################
+砂2BiaoZeroTime=2018-03-25 14:07:12
+砂2BiaoZeroADValue=2491
+砂2BiaoZeroWTValue=0
+####################################################
+粉灰BiaoZeroTime=2018-03-25 14:07:22
+粉灰BiaoZeroADValue=2581
+粉灰BiaoZeroWTValue=-0.1
+####################################################
+水秤BiaoZeroTime=2018-03-25 14:07:29
+水秤BiaoZeroADValue=1989
+水秤BiaoZeroWTValue=0.1
+####################################################
+外加剂1BiaoZeroTime=2018-03-25 14:07:36
+外加剂1BiaoZeroADValue=4831
+外加剂1BiaoZeroWTValue=0.02
+####################################################
+外加剂2BiaoZeroTime=2018-03-25 14:07:43
+外加剂2BiaoZeroADValue=4598
+外加剂2BiaoZeroWTValue=0.42
+####################################################
+外加剂2BiaoZeroTime=2018-03-25 14:39:19
+外加剂2BiaoZeroADValue=5381
+外加剂2BiaoZeroWTValue=4.98
+####################################################
+CengIndex=13
+外加剂2BiaoWeightTime=2018-03-25 14:40:20
+外加剂2BiaoWeightADValue=6171
+外加剂2BiaoWeightWTValue=5.02
+外加剂2BiaoWeightFMValue=5.00
+####################################################
+外加剂1BiaoZeroTime=2018-03-25 14:40:32
+外加剂1BiaoZeroADValue=4826
+外加剂1BiaoZeroWTValue=-0.03
+####################################################
+CengIndex=13
+外加剂2BiaoWeightTime=2018-03-25 14:41:49
+外加剂2BiaoWeightADValue=6177
+外加剂2BiaoWeightWTValue=5.03
+外加剂2BiaoWeightFMValue=5.00
+####################################################
+CengIndex=13
+外加剂2BiaoWeightTime=2018-03-25 14:41:58
+外加剂2BiaoWeightADValue=6176
+外加剂2BiaoWeightWTValue=4.98
+外加剂2BiaoWeightFMValue=5.00
+####################################################

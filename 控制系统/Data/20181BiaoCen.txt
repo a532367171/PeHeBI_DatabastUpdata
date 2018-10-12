@@ -1,0 +1,16 @@
+水泥BiaoZeroTime=2018-01-26 17:32:37
+水泥BiaoZeroADValue=1597
+水泥BiaoZeroWTValue=-1
+####################################################
+外加剂1BiaoZeroTime=2018-01-26 17:32:54
+外加剂1BiaoZeroADValue=4835
+外加剂1BiaoZeroWTValue=0.05
+####################################################
+水秤BiaoZeroTime=2018-01-26 17:33:11
+水秤BiaoZeroADValue=1989
+水秤BiaoZeroWTValue=0.3
+####################################################
+粉灰BiaoZeroTime=2018-01-26 17:33:29
+粉灰BiaoZeroADValue=2588
+粉灰BiaoZeroWTValue=-0.5
+####################################################

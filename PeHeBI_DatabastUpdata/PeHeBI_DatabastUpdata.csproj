@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{47647B47-FC50-4A68-858A-A1CFD52F113C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PeHeBI_DatabastUpdata</RootNamespace>
+    <AssemblyName>PeHeBI_DatabastUpdata</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.0.0\lib\net40\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.0.0\lib\net40\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <HintPath>..\packages\log4net.2.0.8\lib\net40-full\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>.\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Omu.ValueInjecter">
+      <HintPath>.\Omu.ValueInjecter.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.108.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Core.1.0.108.0\lib\net40\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.EF6, Version=1.0.108.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.EF6.1.0.108.0\lib\net40\System.Data.SQLite.EF6.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.Linq, Version=1.0.108.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Linq.1.0.108.0\lib\net40\System.Data.SQLite.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BLL\Access_sRecords_BLL.cs" />
+    <Compile Include="common\AccessHelper.cs" />
+    <Compile Include="common\AccessHelper1.cs" />
+    <Compile Include="common\AppLog.cs" />
+    <Compile Include="common\CommandInfo.cs" />
+    <Compile Include="common\ConfigHelper.cs" />
+    <Compile Include="common\ConfigManager.cs" />
+    <Compile Include="common\Data\BaseRepository.cs" />
+    <Compile Include="common\Data\DbUtils.cs" />
+    <Compile Include="common\Data\FieldsBy.cs" />
+    <Compile Include="common\Data\Filter\FilterGroup.cs" />
+    <Compile Include="common\Data\Filter\FilterRule.cs" />
+    <Compile Include="common\Data\Filter\FilterTranslator.cs" />
+    <Compile Include="common\Data\IRepository.cs" />
+    <Compile Include="common\Data\OleDb\OleDbEasy_LastMoth.cs" />
+    <Compile Include="common\Data\OleDb\OledbHelper.cs" />
+    <Compile Include="common\Data\OleDb\OleDbEasy.cs" />
+    <Compile Include="common\Data\OleDb\OleDb_help.cs" />
+    <Compile Include="common\Data\Pageable.cs" />
+    <Compile Include="common\Data\ProcCustomPage.cs" />
+    <Compile Include="common\Data\ReaderInjection.cs" />
+    <Compile Include="common\Data\SetParamsValues.cs" />
+    <Compile Include="common\Data\SetParamsValues_SQLite.cs" />
+    <Compile Include="common\Data\SQLite\SqliteEasy.cs" />
+    <Compile Include="common\Data\SQLite\SQLiteHelper.cs" />
+    <Compile Include="common\Data\SQLServer\SqlEasy.cs" />
+    <Compile Include="common\Data\SQLServer\SQLHelper.cs" />
+    <Compile Include="common\Data\TableConvention.cs" />
+    <Compile Include="common\Data\TableNameAttribute.cs" />
+    <Compile Include="common\DbHelperOleDb.cs" />
+    <Compile Include="common\DbHelperOleDb_LastMonth.cs" />
+    <Compile Include="common\DbHelperOleDb_ThisMonth.cs" />
+    <Compile Include="common\DbHelperSQL.cs" />
+    <Compile Include="common\DbHelperSQLP.cs" />
+    <Compile Include="common\DbUtils.cs" />
+    <Compile Include="common\FileHelper.cs" />
+    <Compile Include="common\IniFileReference.cs" />
+    <Compile Include="common\JSONhelper.cs" />
+    <Compile Include="common\LogManager.cs" />
+    <Compile Include="common\ModleHelper.cs" />
+    <Compile Include="common\Provider\SingletonProvider.cs" />
+    <Compile Include="common\PubConstant.cs" />
+    <Compile Include="common\PublicMethod.cs" />
+    <Compile Include="common\SqlEasy.cs" />
+    <Compile Include="common\SQLiteHelper.cs" />
+    <Compile Include="common\StringHelper.cs" />
+    <Compile Include="common\ValueHelper.cs" />
+    <Compile Include="common\www_Connect.cs" />
+    <Compile Include="DAL\Access_sRecords_DAL1.cs" />
+    <Compile Include="DAL\Access_sRecords_DAL_LastMonth.cs" />
+    <Compile Include="DAL\Access_sRecords_DAL_ThisMonth.cs" />
+    <Compile Include="DAL\Sqlite_sRecords_Dal.cs" />
+    <Compile Include="DAL\sql_pr_PeiHeBi_DAL.cs" />
+    <Compile Include="Data_Updata.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="global_variable.cs" />
+    <Compile Include="Model\Access_sRecords_Model.cs" />
+    <Compile Include="Model\pr_PeiHeBi_Model.cs" />
+    <Compile Include="Model\Sqlite_PHB_Model.cs" />
+    <Compile Include="Model\Sqlite_sRecords_Model.cs" />
+    <Compile Include="ProjectInstaller.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ProjectInstaller.Designer.cs">
+      <DependentUpon>ProjectInstaller.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Service1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Service1.Designer.cs">
+      <DependentUpon>Service1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProjectInstaller.resx">
+      <DependentUpon>ProjectInstaller.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\System.Data.SQLite.Core.1.0.108.0\build\net40\System.Data.SQLite.Core.targets" Condition="Exists('..\packages\System.Data.SQLite.Core.1.0.108.0\build\net40\System.Data.SQLite.Core.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>这台计算机上缺少此项目引用的 NuGet 程序包。使用“NuGet 程序包还原”可下载这些程序包。有关更多信息，请参见 http://go.microsoft.com/fwlink/?LinkID=322105。缺少的文件是 {0}。</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\System.Data.SQLite.Core.1.0.108.0\build\net40\System.Data.SQLite.Core.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\System.Data.SQLite.Core.1.0.108.0\build\net40\System.Data.SQLite.Core.targets'))" />
+  </Target>
+</Project>

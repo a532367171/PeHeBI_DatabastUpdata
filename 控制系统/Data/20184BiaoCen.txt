@@ -1,0 +1,8 @@
+水秤BiaoZeroTime=2018-04-06 09:42:01
+水秤BiaoZeroADValue=1992
+水秤BiaoZeroWTValue=0.8
+####################################################
+水秤BiaoZeroTime=2018-04-27 07:15:16
+水秤BiaoZeroADValue=1991
+水秤BiaoZeroWTValue=-3.4
+####################################################
